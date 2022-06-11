@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" sizes="50x50" href=".imagem/w.png"/>
+	<title>Olá Mundo.!!!</title>
+	<center>
+		<img src=".imagem/caminho.png"class="center" width="500" height="300">
+	</center>
+</head>
+<style>
+	h1 {
+			font-fa
+			mily: Arial;
+			font-size: 30pt;
+			color: blue;
+			text-shadow: 2px 2px 2px black;
+		}
+		h2 {
+			color: blue;
+			font-family: arial;
+			font-size: 25pt;
+		}
+</style>
+<body>
+ <center>
+	 <h1>Olá Mundo!</h1>
+	 <h2>Tudo posso na quEle que me fortalece, Amém.!!!</h2>
+ </center>
+	Felipesenses 4.13
+	
+	<h5><cite>
+		Por:
+		<a href="https://github.com/WilkerFarias">Wilker Farias&reg;</a>
+	</cite></h5>
+
+</html>
